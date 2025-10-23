@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+myenv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Other
+.DS_Store
+Thumbs.db
+
+# Specific files in TP-01
+TP-01/OOP review.doc
+TP-01/clean_data.csv
+TP-01/cleaned_data.csv
+TP-01/CleanDataLib_OOP_and_DesignPatterns.ipynb
+
+# Jupyter
+.ipynb_checkpoints/

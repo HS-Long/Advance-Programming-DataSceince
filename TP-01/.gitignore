@@ -1,0 +1,20 @@
+OOP review.doc
+clean_data.csv
+cleaned_data.csv
+CleanDataLib_OOP_and_DesignPatterns.ipynb
+# Python virtual environment
+myenv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
