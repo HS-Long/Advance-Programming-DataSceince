@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: preprocessing_package
+Version: 0.1
+Summary: Simple preprocessing package for data science
+Author: Seaklong
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary

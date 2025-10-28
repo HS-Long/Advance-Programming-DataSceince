@@ -1,0 +1,12 @@
+2025-10-26 14:35:15,244 - INFO - Loading employee data from employees.csv
+2025-10-26 14:35:15,262 - INFO - Successfully loaded 12 employee records
+2025-10-26 14:35:15,273 - INFO - Found 8 adult employees (age >= 18)
+2025-10-26 14:35:15,279 - INFO - Adult employees saved to adult_employees.csv
+2025-10-26 14:54:54,765 - INFO - Loading employee data from employees.csv
+2025-10-26 14:54:54,769 - INFO - Successfully loaded 12 employee records
+2025-10-26 14:54:54,772 - INFO - Found 8 adult employees (age >= 18)
+2025-10-26 14:54:54,775 - INFO - Adult employees saved to adult_employees.csv
+2025-10-26 14:55:27,996 - INFO - Loading employee data from employees.csv
+2025-10-26 14:55:28,000 - INFO - Successfully loaded 12 employee records
+2025-10-26 14:55:28,002 - INFO - Found 8 adult employees (age >= 18)
+2025-10-26 14:55:28,005 - INFO - Adult employees saved to adult_employees.csv
