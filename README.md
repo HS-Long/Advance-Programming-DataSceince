@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Seaklong HENGG</td>
+      <td>Seaklong HENG</td>
       <td>Male</td>
       <td>e20210329</td>
        <td>AMS-Y5</td>
